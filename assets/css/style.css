@@ -30,7 +30,7 @@ body {
     font-size: 65px;
 }
 
-.content {
+.row.content {
     margin: auto;
     text-align: center;
     margin-top: 90px;
